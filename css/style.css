@@ -1,0 +1,18 @@
+body {
+    background-color: #ccc;
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    }
+
+    .country {
+        font-size: 24px;
+        color: red;
+    }
+
+img {
+    width: 15%;
+    height: 15%;
+}
